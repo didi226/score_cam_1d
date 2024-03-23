@@ -4,7 +4,6 @@ def score_cam_visual(self,target_layer="avg_pool2",norm_saliency_map_=False,righ
         cam_all = list()
         self.model.eval()
         model = copy.deepcopy(self.model)
-        # cam_extractor = CAM(model)
         predicted_list= list()
         exec("net_e= ScoreCAM(model.cpu(), model." + target_layer +")")
         net = locals()['net_e']
