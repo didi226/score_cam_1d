@@ -15,7 +15,7 @@ score cam 1d
 ```
 @article{huang2024intersubject,
   title={An Intersubject Brain-Computer Interface Based on Domain-Adversarial Training of Convolutional Neural Network for Online Attention Decoding},
-  author={Chen Di,Huang, Haiyun and Guan, Zijing and Pan, Jiahui and Li, Yuanqing and others},
+  author={Chen,Di and Huang, Haiyun and Guan, Zijing and Pan, Jiahui and Li, Yuanqing and others},
   journal={IEEE Transactions on Biomedical Engineering},
   year={2024},
   publisher={IEEE}}
