@@ -6,7 +6,7 @@ score cam 1d
 
 - score cam [2]
 
-  [1]Huang, H., Guan, Z., Pan, J., & Li, Y. (2024). An Inter-Subject Brain-Computer Interface Based on Domain-Adversarial Training of Convolutional Neural Network for Online Attention Decoding. *IEEE Transactions on Biomedical Engineering*.
+  [1]Chen,D.,Huang, H., Guan, Z., Pan, J., & Li, Y. (2024). An Inter-Subject Brain-Computer Interface Based on Domain-Adversarial Training of Convolutional Neural Network for Online Attention Decoding. *IEEE Transactions on Biomedical Engineering*.
 
   [2]Wang, H., Wang, Z., Du, M., Yang, F., Zhang, Z., Ding, S., ... & Hu, X. (2020). Score-CAM: Score-weighted visual explanations for convolutional neural networks. In *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops* (pp. 24-25).
 
@@ -15,7 +15,7 @@ score cam 1d
 ```
 @article{huang2024intersubject,
   title={An Intersubject Brain-Computer Interface Based on Domain-Adversarial Training of Convolutional Neural Network for Online Attention Decoding},
-  author={Huang, Haiyun and Guan, Zijing and Pan, Jiahui and Li, Yuanqing and others},
+  author={Chen Di,Huang, Haiyun and Guan, Zijing and Pan, Jiahui and Li, Yuanqing and others},
   journal={IEEE Transactions on Biomedical Engineering},
   year={2024},
   publisher={IEEE}}
